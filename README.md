@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @popeye4krish
-- 👀 I’m interested in block chain databse
+- 👀 I’m interested in block chain database
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me muthukrishnan.h@outlook.com
